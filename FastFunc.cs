@@ -26,7 +26,7 @@ using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
 
-namespace VARP.Delegates
+namespace Plugins.VARP.Delegates
 {
     /// <summary>Collection of Function<TRes> organized as Linked List & Table</summary>
     public class FastFunc<TResult>
