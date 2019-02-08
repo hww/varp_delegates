@@ -24,7 +24,7 @@
 
 using System.Collections.Generic;
 
-namespace Plugins.VARP.delegates
+namespace VARP.delegates
 {
     /// <summary>Collection of Action organized as Linked List & Table</summary>
     public class FastAction

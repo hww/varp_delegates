@@ -22,11 +22,9 @@
 // SOFTWARE.
 // =============================================================================
 
-using UnityEngine;
-using System.Collections;
 using System.Collections.Generic;
 
-namespace Plugins.VARP.Delegates
+namespace VARP.Delegates
 {
     /// <summary>Collection of Function<TRes> organized as Linked List & Table</summary>
     public class FastFunc<TResult>
